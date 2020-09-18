@@ -1,4 +1,4 @@
-# Athena
+# VR_projet_elearn_App
 
 ### Inspiration
 As virtual reality developers, we saw a major lack of vr educational platforms. We want to set a standard for this new and emerging technology!
@@ -13,10 +13,3 @@ Athena is a mobile learning management system that focuses on virtual reality.
 <img src="images/VRVideo.png" alt="VR Video" width="426" height="240"/> <img src="images/VRModel.png" alt="VR Model" width="426" height="240"/>
 
 <img src="images/VRSkyBox.png" alt="VR SkyBox" width="426" height="240"/>
-
-### What's next for Athena
-AR and Networking! Students will soon be able engage with their professor's and their peers. Let's keep this going
-
-### [Try it out!](https://athena.bryson.cc)
-
-#### For more information check the [DevPost](https://devpost.com/software/athena-3q5e4i)
